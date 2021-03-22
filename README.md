@@ -1,3 +1,3 @@
 # ChiXiao
 
-Redis experimentation app as a .NET Core Console Application 
+Redis experimentation app as a .NET Core Console Application
